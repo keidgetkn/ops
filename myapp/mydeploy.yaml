@@ -11,6 +11,7 @@ spec:
     metadata:
       labels:
         myapp: nginx
+        project: oec
     spec:
       containers:
       - name: nginx
